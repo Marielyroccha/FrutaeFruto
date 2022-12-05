@@ -1,0 +1,22 @@
+@import url(cabecalho.css);
+@import url(banner.css);
+@import url(sobre.css);
+@import url(receitas.css);
+@import url(quem-somos.css);
+@import url(footer.css);
+
+:root {
+    --branco: #ffffff;
+    --cinza: #f9f9f9;
+    --cinza-fonte: #808080;
+    --cinza-claro:#8C8888;
+    --cinza-escuro: #333333;
+    --fonte-banner: "Pacifico";
+    --vermelho: #8D0606;
+    --vermelho-escuro: #630202;
+}
+
+body {
+    background: #E5E5E5;
+    font-family: "Roboto";
+}

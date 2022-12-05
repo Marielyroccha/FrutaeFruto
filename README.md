@@ -1,2 +1,2 @@
-# FrutaeFruto
-Projeto desenvolvido em curso de Front
+# arquitetura-css
+curso de arquitetura da Alura. 

@@ -1,0 +1,17 @@
+.sobre {
+    background: var(--branco);
+    padding: 2.5rem;
+    text-align: center;
+}
+
+.sobre__titulo {
+    color: var(--vermelho);
+    font-family: var(--fonte-banner);
+    font-size: 51px;
+}
+
+.sobre__texto {
+    color: var(--cinza-claro);
+    font-size: 28px;
+    font-weight: 100;
+}
